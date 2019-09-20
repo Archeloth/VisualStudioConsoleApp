@@ -13,6 +13,7 @@ namespace ConsoleApp
             //First Visual Studio (console app) commit to github.
             Console.WriteLine("Hello World");
             Console.WriteLine("Push push baby");
+            Console.WriteLine("Second push");
             Console.ReadKey();
         }
     }
